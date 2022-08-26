@@ -251,3 +251,10 @@ td, th {
 	transition: 400ms;
 	box-shadow: 10px 10px 5px #000000;
 }
+
+
+@media screen and (max-width: 480px) {
+    body {
+        background: red;
+    }
+}
