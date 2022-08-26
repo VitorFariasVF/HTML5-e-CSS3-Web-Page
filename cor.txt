@@ -1,0 +1,43 @@
+abcdf....
+
+binário 01
+
+numérico 0123456789
+
+hexadecimal 0123456789ABCDEF
+
+RGB = RED GREEN BLUE
+
+# _ _ _ _ _ _ 
+
+0 = Ausêmcia 
+
+F = Máximo 
+
+#000000 Branco
+
+#FFFFFF Preto
+
+#FF0000 Vermelho
+
+#00FF00 Verde
+
+#0000FF Azul
+
+red
+gree
+blue
+
+RGB 0,1,2,3,...255
+
+0 = Ausêmcia
+
+255 = Máximo
+
+rgb(255,255,255) Branco
+
+rgb(255,0,0) Vermelho
+
+rgb(0,255,0) Verde
+
+rgb(0,0,255)
